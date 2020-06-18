@@ -1,1 +1,2 @@
 mac/passman-1.0.0.dmg filter=lfs diff=lfs merge=lfs -text
+ubuntu/passman_1.0.0_amd64.deb filter=lfs diff=lfs merge=lfs -text
