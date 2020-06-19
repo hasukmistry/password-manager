@@ -8,7 +8,6 @@ Password manager is a cross-platform desktop app to manage personal passwords, s
 :star: Star us on GitHub — it helps!
 
 ## Table of content
-----------
 - [Key Features](#key-features)
 - [Download](#download)
 	- [Mac](https://github.com/hasukmistry/password-manager/raw/master/mac/passman-1.0.0.dmg)
@@ -18,7 +17,6 @@ Password manager is a cross-platform desktop app to manage personal passwords, s
 - [Support](#support)
 
 ## Key Features
-----------
 * Three layered secure encryption.
 * Encryption using [Steganography](https://en.wikipedia.org/wiki/Steganography) and [Cipher Algorithm](https://en.wikipedia.org/wiki/Cipher).
 * Supports portability for encrypted data.
@@ -27,7 +25,6 @@ Password manager is a cross-platform desktop app to manage personal passwords, s
   - Mac, Ubuntu and Windows ready.
 
 ## Download
-----------
 Currently Password Manager is available to download for Mac, Ubuntu and Windows.
 
 [![Download](https://img.shields.io/badge/Mac-Download-orange)](https://github.com/hasukmistry/password-manager/raw/master/mac/passman-1.0.0.dmg)
@@ -35,7 +32,6 @@ Currently Password Manager is available to download for Mac, Ubuntu and Windows.
 [![Download](https://img.shields.io/badge/Windows-Download-brightgreen)](https://github.com/hasukmistry/password-manager/raw/master/windows/passman%201.0.0.msi)
 
 ## Credits
-----------
 This software is built using following open source packages:
 - [Electron](http://electron.atom.io/)
 - [Node.js](https://nodejs.org/)
@@ -48,11 +44,9 @@ This software is built using following open source packages:
 - [Picsum Photos](https://picsum.photos/)
 
 ## License
-----------
 Password manager is licensed under the terms of the GPL Open Source license and is available for free.
 
 ## Support
-----------
 <a href="https://www.buymeacoffee.com/hasukmistry" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
 OR
