@@ -8,6 +8,7 @@ Password manager is a cross-platform desktop app to manage personal passwords, s
 :star: Star us on GitHub — it helps!
 
 ## Table of content
+- [How it works?](#how-it-works)
 - [Key Features](#key-features)
 - [Download](#download)
 	- [Mac](https://github.com/hasukmistry/password-manager/raw/master/mac/passman-1.0.0.dmg)
@@ -15,6 +16,9 @@ Password manager is a cross-platform desktop app to manage personal passwords, s
 	- [Windows](https://github.com/hasukmistry/password-manager/raw/master/windows/passman%201.0.0.msi)
 - [License](#license)
 - [Support](#support)
+
+## How it works?
+Password Manager - An Introduction - [Watch it on youtube](https://youtu.be/mtkNmCAG0Rg)
 
 ## Key Features
 * Three layered secure encryption.
