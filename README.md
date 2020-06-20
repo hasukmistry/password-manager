@@ -14,6 +14,7 @@ Password manager is a cross-platform desktop app to manage personal passwords, s
 	- [Mac](https://github.com/hasukmistry/password-manager/raw/master/mac/passman-1.0.0.dmg)
 	- [Ubuntu](https://github.com/hasukmistry/password-manager/raw/master/ubuntu/passman_1.0.0_amd64.deb)
 	- [Windows](https://github.com/hasukmistry/password-manager/raw/master/windows/passman%201.0.0.msi)
+- [Contribute](#contribute)
 - [License](#license)
 - [Support](#support)
 
@@ -46,6 +47,9 @@ This software is built using following open source packages:
 - [Google Authenticator](https://www.google.com/landing/2step/#tab=how-it-works)
 - [Flaticon](https://www.flaticon.com/)
 - [Picsum Photos](https://picsum.photos/)
+
+## Contribute
+Go to source code repo: [Click here](https://github.com/hasukmistry/passman)
 
 ## License
 Password manager is licensed under the terms of the GPL Open Source license and is available for free.
